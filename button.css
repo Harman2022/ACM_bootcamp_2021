@@ -1,0 +1,14 @@
+body {
+    background-color: red;
+    font-size: 250%;
+    font-style:oblique;
+    color: yellow;
+    padding: 40px;
+    font-family: Arial;
+    text-align: center;
+  }
+  button{
+    background-color: green;
+    color:  skyblue;
+    padding: 25px;
+  }
